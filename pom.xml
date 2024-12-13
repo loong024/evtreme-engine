@@ -1,0 +1,34 @@
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.github.loong024</groupId>
+    <artifactId>evtreme-engine</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Evtreme Engine</name>
+    <description>Evtreme Engine</description>
+    <url>https://github.com/loong024/evtreme-engine.git</url>
+
+    <licenses>
+        <license>
+            <name>Apache License Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
+
+    <modules>
+        <module>evtreme-starters</module>
+        <module>evtreme-parent</module>
+        <module>evtreme-bom</module>
+        <module>evtreme-dependencies</module>
+        <module>evtreme-examples</module>
+    </modules>
+
+    <scm>
+        <url>https://github.com/loong024/evtreme-engine.git</url>
+    </scm>
+
+</project>

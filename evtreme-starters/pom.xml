@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>io.github.loong024</groupId>
+        <artifactId>evtreme-parent</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+        <relativePath>../evtreme-parent</relativePath>
+    </parent>
+
+    <artifactId>evtreme-starters</artifactId>
+    <packaging>pom</packaging>
+    <name>Evtreme Engine - Starters</name>
+
+    <modules>
+        <module>evtreme-spring-boot-core</module>
+        <module>evtreme-web-spring-boot-starter</module>
+        <module>evtreme-redis-spring-boot-starter</module>
+        <module>evtreme-mybatis-spring-boot-starter</module>
+    </modules>
+</project>
