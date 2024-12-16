@@ -7,7 +7,7 @@
     <parent>
         <groupId>io.github.loong024</groupId>
         <artifactId>evtreme-engine</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
 
     <artifactId>evtreme-bom</artifactId>
@@ -19,25 +19,25 @@
             <dependency>
                 <groupId>io.github.loong024</groupId>
                 <artifactId>evtreme-spring-boot-core</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>0.0.1</version>
             </dependency>
 
             <dependency>
                 <groupId>io.github.loong024</groupId>
                 <artifactId>evtreme-web-spring-boot-starter</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>0.0.1</version>
             </dependency>
 
             <dependency>
                 <groupId>io.github.loong024</groupId>
                 <artifactId>evtreme-redis-spring-boot-starter</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>0.0.1</version>
             </dependency>
 
             <dependency>
                 <groupId>io.github.loong024</groupId>
                 <artifactId>evtreme-mybatis-spring-boot-starter</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>0.0.1</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

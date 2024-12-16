@@ -7,7 +7,7 @@
     <parent>
         <groupId>io.github.loong024</groupId>
         <artifactId>evtreme-dependencies</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>0.0.1</version>
         <relativePath>../evtreme-dependencies</relativePath>
     </parent>
 
